@@ -1,0 +1,230 @@
+.sketchbook {
+    float: left;
+    width: 520px;
+    background-color: white;
+    margin-left: 11%;
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+    padding-bottom: 6%;
+}
+
+.sketchbook2 {
+    float: left;
+    width: 520px;
+    background-color: white;
+    margin-left: 8%;
+	margin-top: 2%;
+	margin-right: 8%;
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+    padding-bottom: 6%;
+}
+
+.nests {
+    float: left;
+    width: 520px;
+    background-color: #fbefe0;
+    margin-left: 13%;
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+    padding-bottom: 6%;
+}
+
+.tassa {
+    float: center;
+    width: 520px;
+    background-color: #fff0d0;
+    margin-left: 27%;
+    margin-right: 25%;
+	
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+    padding-bottom: 6%;
+}
+
+.column {
+  float: left;
+  width: max-content;
+  background-color: white;
+  margin-left: 10%;
+  padding-left: 3%;
+  padding-top: 1.5%;
+  padding-right: 3%;
+  padding-bottom: 6%;
+}
+
+.muscolum {
+  float: left;
+  width: max-content;
+  background-color: white;
+  margin-left: 10%;
+  padding-left: 3%;
+  padding-top: 1.5%;
+  padding-right: 3%;
+  padding-bottom: 2%;
+}
+
+.container { 
+	background-image:url('Practical/Watercolour paper backdrop.png');
+	background-size: cover;
+	background-repeat:no-repeat;
+    float: left;
+    width: 600px;
+    margin-left: 9%;
+	margin-top:3%;
+    padding-left: 4%;
+    padding-top: 3%;
+    padding-right: 4%;
+    padding-bottom: 1%;
+	margin-bottom: -1%;
+}
+
+.hyperlinks {
+	background-image:url('Practical/bee honey bar.png');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.blue {
+	background-image:url('Practical/blue marble.png');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	margin-top:3%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.blue2forbiblio {
+	background-image:url('Practical/blue marble.png');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	margin-top:0%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.blue {
+	background-image:url('Practical/blue marble.png');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	margin-top:3%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.blue3 {
+	background-image:url('Practical/blue marble.png');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 440px;
+	margin-right: 12%;
+	margin-top: 6%;
+	padding-left: 6%;
+    padding-top: 16%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.tartan {
+	background-image:url('Practical/tartan.jpg');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: right;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	margin-left: 3%;
+	margin-top:3%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.wrapper {
+    max-width: 100%px;
+    margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.wrapper2 {
+    max-width: 100%px;
+    margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.menu {
+	background-image:url('Practical/');
+	background-size: 260px;
+	background-repeat: no-repeat;
+	float: center;
+	width: 260px;
+	height: 400px;
+	margin-right: 12%;
+	padding-left: 2.3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: %;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding-left: 4%;
+  
+}
+
+li a {
+  display: block;
+  color: #f7d07e;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:  #3988fe;
+;
+}
