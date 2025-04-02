@@ -22,6 +22,20 @@
     padding-bottom: 6%;
 }
 
+.research {
+    float: left;
+    width: 520px;
+    background-color: #b1795d;
+    margin-left: 8%;
+	margin-top: 2%;
+	margin-right: 8%;
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+    padding-bottom: 6%;
+}
+
+
 .nests {
     float: left;
     width: 520px;
@@ -36,7 +50,7 @@
 .tassa {
     float: center;
     width: 520px;
-    background-color: #fff0d0;
+    background-color: #91ea28;
     margin-left: 27%;
     margin-right: 25%;
 	
@@ -127,7 +141,7 @@
     padding-bottom: 3%;
 }
 
-.blue {
+.blue2 {
 	background-image:url('Practical/blue marble.png');
 	background-size: 260px;
 	background-repeat: no-repeat;
@@ -225,6 +239,6 @@ li a {
 }
 
 li a:hover {
-  background-color:  #3988fe;
+  background-color:  #91ea28;
 ;
 }
