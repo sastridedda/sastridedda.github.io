@@ -25,7 +25,7 @@
 .research {
     float: left;
     width: 520px;
-    background-color: #b1795d;
+    background-color: #c9ff96;
     margin-left: 8%;
 	margin-top: 2%;
 	margin-right: 8%;
@@ -232,13 +232,13 @@ li {
 
 li a {
   display: block;
-  color: #f7d07e;
+  color: #92e028;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color:  #91ea28;
+  background-color:  #92e028;
 ;
 }
